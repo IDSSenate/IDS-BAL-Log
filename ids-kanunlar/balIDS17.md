@@ -1,4 +1,4 @@
-#BALİDS'17 - Uluslararası Krizler
+# BALİDS'17 - Uluslararası Krizler
  
 Küresel bir nüfus artışı problemi simüle edilmiştir.
 
